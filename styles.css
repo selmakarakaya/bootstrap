@@ -1,0 +1,25 @@
+body {
+    background-color: #E9ECEF; 
+}
+
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+
+h2 { 
+color: purple;
+text-align: center;
+ }
+ ul li{
+    list-style: none;
+    display: inline-block;
+    margin:0 8px;
+    line-height: 80px;
+    position: relative;
+    text-align:justify;
+
+}
+
